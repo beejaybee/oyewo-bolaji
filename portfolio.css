@@ -27,7 +27,7 @@
 
 #welcome-section{
     background: #C0D684;
-    color: white;
+    color: #DB53A2;
     height: 100vh;
 }
 #welcome-section div{
@@ -44,7 +44,7 @@
 }
 
 #welcome-section div p{
-    color: rgb(202, 23, 23);
+    color: #DB53A2;
     font-size: 40px;
 }
 
